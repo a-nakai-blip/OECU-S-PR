@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.clasp.json
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.zip
+*.log
